@@ -13,3 +13,4 @@ second stash
 third stash
 without net stash
 without net stash 2
+new remote
